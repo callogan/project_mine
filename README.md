@@ -1,2 +1,1 @@
-# project_mine
-Hello, Marina!
+Hello, Ruslan!
